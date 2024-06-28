@@ -1,7 +1,16 @@
 # Telegram Claim Assistant - Mine HOT & More!
 #### Currently supporting 14 crypto-based games and increasing weekly - automate claims and stay informed about their status.
 
-Hello, Fellow Crypto Game Enthusiasts! If you find the scripts useful and would like to support our ongoing development, consider subscribing to our [Patreon](https://www.patreon.com/TelegramClaimBot), or treat us to a [cup of coffee ☕](https://www.buymeacoffee.com/HotWallletBot) as a token of appreciation—both options are just $5. You can also support us at no cost by subscribing to and watching our [YouTube channel](https://www.youtube.com/channel/UCygSGwCLIaQAZiYs1lLcRGw), where we share more content and insights. Discover some humorous uses for the channel and more reasons to give a little back [here](docs/YOUTUBE.md).
+Hello, Fellow Crypto Game Enthusiasts!
+
+💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
+
+TON:
+`UQA3x3iYLEr0aj3URriM633h8hARay-_qmOFjanPPtwlruf2`
+
+EVM-compatible blockchains:
+`0x55Bb40105929C71d4883436e22a0c8A3C1D4dd7d`
+
 
 ## Want to learn more about the Telegram Claim Bot? Our blog posts are FREE to read on Patreon!
 
