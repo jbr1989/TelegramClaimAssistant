@@ -11,6 +11,16 @@ TON:
 EVM-compatible blockchains:
 `0x55Bb40105929C71d4883436e22a0c8A3C1D4dd7d`
 
+Hello, Fellow Crypto Game Enthusiasts!
+
+💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
+
+TON:
+`UQA3x3iYLEr0aj3URriM633h8hARay-_qmOFjanPPtwlruf2`
+
+EVM-compatible blockchains:
+`0x55Bb40105929C71d4883436e22a0c8A3C1D4dd7d`
+
 
 ## Want to learn more about the Telegram Claim Bot? Our blog posts are FREE to read on Patreon!
 
